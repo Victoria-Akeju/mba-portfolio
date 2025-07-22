@@ -1,0 +1,13 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h1, h2 {
+  color: #0a3d62;
+}
+
+.callout-note {
+  background-color: #e8f4fd;
+  border-left: 5px solid #3498db;
+  padding: 10px;
+}
